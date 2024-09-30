@@ -1,0 +1,17 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    padding: 35px 0; 
+}
+  
+  .contact .btn {
+    padding: 24px 46px; 
+    margin: 15px 0; 
+}
+  
+  .section__title {
+    margin-bottom: 100px; 
+}
